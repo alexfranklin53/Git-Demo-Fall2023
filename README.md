@@ -1,10 +1,13 @@
 # Git Demo: Alex Franklin
 Actually learning Git.
 
-learning 
+learning !!!!!!!!!!!!!!!
 
 ## Topics
 - git pull
 - git push
 - git clone
 - git push
+
+## cool stuff
+= learning branching
